@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your (nick)Name</title>
-    <description>BioHack Academy blog</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>BiohackMax 2024</title>
+    <description>Max&apos;s Journey with Biohack Academy 2024bundle exec jekyll build</description>
+    <link>http://YOURUSERNAME.github.io</link>
+    <atom:link href="http://YOURUSERNAME.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Hello World</title>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Tue, 23 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/Hello-World/</link>
-        <guid isPermaLink="true">http://localhost:4000/Hello-World/</guid>
+        <link>http://YOURUSERNAME.github.io/Hello-World/</link>
+        <guid isPermaLink="true">http://YOURUSERNAME.github.io/Hello-World/</guid>
       </item>
     
   </channel>
