@@ -2,28 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BiohackMax 2024</title>
-    <description>Max&apos;s Journey with Biohack Academy 2024bundle exec jekyll build</description>
-    <link>http://max-of-web.github.io</link>
-    <atom:link href="http://max-of-web.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Max&apos;s Journey with Biohack Academy 2024</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hello World</title>
-        <description>&lt;h1 id=&quot;my-first-biohack-academy-2024-post&quot;&gt;My first Biohack Academy 2024 post&lt;/h1&gt;
+        <title>Lecture 1 - Biosafety</title>
+        <description>&lt;h2 id=&quot;exploring-biosafety-and-laboratory-protocols&quot;&gt;Exploring Biosafety and Laboratory Protocols&lt;/h2&gt;
 
-&lt;h2 id=&quot;heres-a-subtitle&quot;&gt;Here’s a subtitle&lt;/h2&gt;
+&lt;p&gt;Welcome to our latest installment of lab notes from the Biohack Academy! In this post, we’ll be delving into the essentials of biosafety, laboratory protocols, and collaborative efforts discussed during our recent meeting. From risk assessment strategies to the importance of international standards, join us as we navigate through key insights and reminders shared by Per Staugaard and fellow participants. Let’s dive in!&lt;/p&gt;
 
-&lt;p&gt;First post on my Github Jekyll page on the first day of the BioHack Academy&lt;/p&gt;
+&lt;h3 id=&quot;-risk-assessment-and-mitigation-measures&quot;&gt;🔬 Risk Assessment and Mitigation Measures&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Be Bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The effectiveness of mitigation measures for polio viruses is between 60 and 75%. Mitigation measures should be taken at different levels, with the most effective being the source material worked with. Technical measures and organizational measures should be implemented to reduce risk to an acceptable level. Risk assessments should be done for every organism and appropriate mitigation measures should be taken.&lt;/p&gt;
+
+&lt;h3 id=&quot;-laboratory-safety-and-hygiene&quot;&gt;🧪 Laboratory Safety and Hygiene&lt;/h3&gt;
+
+&lt;p&gt;Personal protection and safe behavior are emphasized. Handwashing is important for maintaining hygiene. Labeling of materials is necessary, including names, dates, and contents. Safety data sheets should be known and followed. Waste should be properly disposed of. Glass should be handled carefully to avoid sharp points. Materials should not be mixed if they can react with each other.&lt;/p&gt;
+
+&lt;h3 id=&quot;-lab-procedures-and-regulations&quot;&gt;🚦 Lab Procedures and Regulations&lt;/h3&gt;
+
+&lt;p&gt;Per Staugaard emphasized the importance of following lab rules and SOPs. A small test will be conducted before entering the lab. A permit is required for certain experiments, and the lab must comply with local legislation. Proper labeling of dangerous materials, following international standards, is essential. Materials brought into the lab should be accounted for and removed afterward.&lt;/p&gt;
+
+&lt;h3 id=&quot;-clarification-and-questions&quot;&gt;❓ Clarification and Questions&lt;/h3&gt;
+
+&lt;p&gt;Per Staugaard encouraged participants to ask questions if they are unsure about procedures or safety measures. He highlighted the importance of clear communication and labeling for shared items. The lab manager’s tasks, lab setup, waste disposal, and safety procedures were discussed. The European directive should be translated into local legislation, ensuring consistency in regulations.&lt;/p&gt;
+
+&lt;h3 id=&quot;-international-collaboration-and-standardization&quot;&gt;🌍 International Collaboration and Standardization&lt;/h3&gt;
+
+&lt;p&gt;The importance of international standards and collaboration was mentioned. Different countries may have variations in their regulations and implementation.&lt;/p&gt;
+
+&lt;h3 id=&quot;-ideas-for-future-discussion&quot;&gt;💡 Ideas for Future Discussion&lt;/h3&gt;
+
+&lt;p&gt;The topic of Ebola research and how to conduct it was brought up. The discussion of a similar topic was suggested for future meetings.&lt;/p&gt;
+
+&lt;h3 id=&quot;-meeting-logistics&quot;&gt;📝 Meeting Logistics&lt;/h3&gt;
+
+&lt;p&gt;The meeting was recorded. A follow-up test was mentioned. The need for proper training and following instructions from trainers/instructors was emphasized.&lt;/p&gt;
+
+&lt;h3 id=&quot;-participant-engagement&quot;&gt;👤 Participant Engagement&lt;/h3&gt;
+
+&lt;p&gt;Participants were encouraged to actively engage and ask questions during the meeting.&lt;/p&gt;
+
+&lt;h3 id=&quot;-repetition-and-reminder&quot;&gt;🔁 Repetition and Reminder&lt;/h3&gt;
+
+&lt;p&gt;Per Staugaard reiterated certain points, such as handwashing and labeling.&lt;/p&gt;
+
+&lt;h3 id=&quot;-confidentiality-and-safety&quot;&gt;🔒 Confidentiality and Safety&lt;/h3&gt;
+
+&lt;p&gt;Initially, there was hesitation about sharing information about polio virus safety, but it was ultimately decided to share it with the world.&lt;/p&gt;
+
+&lt;h3 id=&quot;️-cleanliness-and-waste-disposal&quot;&gt;🗑️ Cleanliness and Waste Disposal&lt;/h3&gt;
+
+&lt;p&gt;The importance of keeping the lab clean and disposing of waste properly was emphasized.&lt;/p&gt;
+
+&lt;h3 id=&quot;additional-notes&quot;&gt;Additional Notes:&lt;/h3&gt;
+
+&lt;p&gt;Pathogenicity is the capacity of an organism to cause disease. During virus infections, diseases symptoms arise from two causes, direct injury caused by virus replication and the side effects of the immune response to infection. The balance between these two is variable.&lt;/p&gt;
+
+&lt;p&gt;Alimentary tract: The organs that food and liquids travel through when they are swallowed, digested, absorbed, and leave the body as feces. These organs include the mouth, pharynx (throat), esophagus, stomach, small intestine, large intestine, rectum, and anus.&lt;/p&gt;
+
+&lt;p&gt;The conjunctiva is a thin, clear membrane that protects your eye. It covers the inside of your eyelid and the white of your eye (the sclera). The conjunctiva creates the mucus layer that forms part of your tears.&lt;/p&gt;
+
+&lt;p&gt;Aerosol means dissolved in air - smaller than 10 microns.&lt;/p&gt;
+
+&lt;p&gt;An aerosol may be defined as a suspension of particles or droplets in the air and includes airborne dusts, mists, fumes or smoke. Suspended particle sizes may range from a few nanometers to hundreds of micrometers in diameter and particles can be manufactured or naturally occurring.&lt;/p&gt;
+
+&lt;p&gt;Level of measures you take is based on the risk assessment and you can then take mitigation methods based on that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cdc.gov/brucellosis/laboratories/risk-level.html&quot;&gt;Link to CDC Brucellosis Laboratories Risk Level&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PEP - post exposure procedure&lt;/p&gt;
+
+&lt;p&gt;An autoclave is a machine that uses steam under pressure to kill harmful bacteria, viruses, fungi, and spores on items that are placed inside a pressure vessel. The items are heated to an appropriate sterilization temperature for a given amount of time.&lt;/p&gt;
+
+&lt;p&gt;We wear a labcoat because it changes your mindset when you change clothes and enter the lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1LbO1qIUcXun85iCY1ZSKHKBBaLF8jPIVQ2HS-JsG1aY/edit?usp=sharing&quot;&gt;Link to Document&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/weissman.jpg&quot; alt=&quot;Brainbow&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;www.google.com&quot;&gt;link to google&lt;/a&gt;&lt;/p&gt;
-
 </description>
-        <pubDate>Tue, 23 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://max-of-web.github.io/Hello-World/</link>
-        <guid isPermaLink="true">http://max-of-web.github.io/Hello-World/</guid>
+        <pubDate>Mon, 25 Mar 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/lecture-1-biosafety/</link>
+        <guid isPermaLink="true">http://localhost:4000/lecture-1-biosafety/</guid>
       </item>
     
   </channel>

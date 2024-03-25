@@ -6,7 +6,7 @@
 name: BiohackMax 2024
 
 # Short bio or description (displayed in the header)
-description: Max's Journey with Biohack Academy 2024bundle exec jekyll build
+description: Max's Journey with Biohack Academy 2024
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
