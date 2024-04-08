@@ -70,8 +70,6 @@ Size of electronic components:
 
 ## Roadmap
 
-Based on the project documentation for your "TastyMushroomIncubator," it's clear you've meticulously planned the stages of development for an advanced mushroom incubator that will eventually incorporate AI for environmental control. Starting with a small-scale prototype allows for thorough testing and refinement before scaling up, which is a wise approach. Let’s outline a roadmap tailored to your project's specifications and stages.
-
 ### Stage 1: Miniature Mushroom Incubator Design and Assembly
 
 #### Materials and Components

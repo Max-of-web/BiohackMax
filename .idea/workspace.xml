@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35eb6b70-a856-4629-ab66-483e536f2c63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-04-02-Incubator-World.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-2-23-Hello-World.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-2-23-Hello-World.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/lecture-1-biosafety/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/lecture-1-biosafety/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-02-Incubator-World.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-04-02-Incubator-World.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/maxbo/OneDrive/Desktop/Github/BiohackMax/_posts"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maxbo/OneDrive/Desktop/Github/BiohackMax/_posts&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\maxbo\OneDrive\Desktop\Github\BiohackMax\_posts" />
