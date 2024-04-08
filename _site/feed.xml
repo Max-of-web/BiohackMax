@@ -7,6 +7,188 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Building an AI-Integrated Mushroom Incubator</title>
+        <description>&lt;p&gt;The &lt;strong&gt;TastyMushroomIncubator&lt;/strong&gt; project is an ambitious endeavor to create a sophisticated mushroom incubator. The project is planned in three stages, evolving from a miniature prototype to a full-size, AI-powered environmental control system.&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#project-stages&quot;&gt;Project Stages&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#stage-1-miniature-mushroom-incubator-design-and-assembly&quot;&gt;Stage 1: Miniature Mushroom Incubator Design and Assembly&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#stage-2-full-size-incubator--plant-grower&quot;&gt;Stage 2: Full-Size Incubator / Plant Grower&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#stage-3-ai-integration-for-automated-environmental-control&quot;&gt;Stage 3: AI Integration for Automated Environmental Control&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#inspiration&quot;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#implementation-and-testing&quot;&gt;Implementation and Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#progression&quot;&gt;Project Progress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;project-stages&quot;&gt;Project Stages&lt;/h2&gt;
+
+&lt;h3 id=&quot;stage-1-miniature-mushroom-incubator-design-and-assembly&quot;&gt;Stage 1: Miniature Mushroom Incubator Design and Assembly&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Materials and Components:&lt;/strong&gt; Utilize clear acrylic for visibility and ease of monitoring, with precision cuts made by a laser cutter.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Assembly:&lt;/strong&gt; Detailed design using CAD software for optimal airflow and light distribution, followed by assembly of cut acrylic panels.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stage-2-full-size-incubator--plant-grower&quot;&gt;Stage 2: Full-Size Incubator / Plant Grower&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Scaling Up:&lt;/strong&gt; Refine the design based on lessons learned from the miniature prototype, using clear acrylic material for the full-size version.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Environmental Control Systems:&lt;/strong&gt; Integration of heating pads and temperature sensors for even heat distribution and accurate temperature monitoring.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stage-3-ai-integration-for-automated-environmental-control&quot;&gt;Stage 3: AI Integration for Automated Environmental Control&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Electronics and Sensors:&lt;/strong&gt; Installation of temperature sensors, heating pads, cameras, NPK sensors and IR sensors for comprehensive monitoring and control.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI System Development:&lt;/strong&gt; Collection of data on growth conditions for the development of an AI model to automatically adjust environment parameters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;Inspired by similar projects and products, the journey began with designing the incubator, experimenting with different tools and materials, and gradually integrating electronics for temperature control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BiohackMax/images/Incubator-inspiration.jpg&quot; alt=&quot;Incubator inspiration&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation-and-testing&quot;&gt;Implementation and Testing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Prototype Testing:&lt;/strong&gt; Each version of the incubator is thoroughly tested, from the miniature model to the full-scale AI-integrated system.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Calibration and Safety Measures:&lt;/strong&gt; Ensuring the accuracy, reliability, and safety of the incubator system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By methodically following this roadmap, the project aims to leverage modern technology for creating optimal growth conditions for mushrooms, showcasing the power of DIY and technological innovation.&lt;/p&gt;
+
+&lt;p&gt;Box specs:
+Should be made of clear acrylic which we can cut with the laser cutter. Should be 1.4m in height, 0.6m in width and 0.6m in length.&lt;/p&gt;
+
+&lt;p&gt;Size of electronic components:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BiohackMax/images/datasheet-for-temp-sensor.jpg&quot; alt=&quot;datasheet for temp sensor.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;temperature-sensor&quot;&gt;Temperature sensor:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Length: 48.5mm&lt;/li&gt;
+  &lt;li&gt;Width: 40mm&lt;/li&gt;
+  &lt;li&gt;Height: 15.15mm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;heating-pads&quot;&gt;Heating pads:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Length: 200mm&lt;/li&gt;
+  &lt;li&gt;Width: 60mm&lt;/li&gt;
+  &lt;li&gt;Power: USB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h2&gt;
+
+&lt;p&gt;Based on the project documentation for your “TastyMushroomIncubator,” it’s clear you’ve meticulously planned the stages of development for an advanced mushroom incubator that will eventually incorporate AI for environmental control. Starting with a small-scale prototype allows for thorough testing and refinement before scaling up, which is a wise approach. Let’s outline a roadmap tailored to your project’s specifications and stages.&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-1-miniature-mushroom-incubator-design-and-assembly-1&quot;&gt;Stage 1: Miniature Mushroom Incubator Design and Assembly&lt;/h3&gt;
+
+&lt;h4 id=&quot;materials-and-components&quot;&gt;Materials and Components&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Acrylic Sheets:&lt;/strong&gt; Utilize clear acrylic for visibility and easy monitoring. Your dimensions suggest a significant size, but start with a scaled-down model if this is the initial prototype.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Laser Cutter:&lt;/strong&gt; Employ the laser cutter for precise cuts and etchings on the acrylic, ensuring perfect fit and assembly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;assembly&quot;&gt;Assembly&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Design:&lt;/strong&gt; Create a detailed design of the incubator using CAD software, considering the internal layout for optimal airflow and light distribution.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cutting:&lt;/strong&gt; Use the laser cutter to cut the acrylic panels based on your design. Include slots for easy assembly and areas for inserting the electronic components.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Assembly:&lt;/strong&gt; Assemble the cut panels using acrylic glue or screws designed for acrylic, ensuring stability and airtightness where necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stage-2-full-size-incubator--plant-grower-1&quot;&gt;Stage 2: Full-Size Incubator / Plant Grower&lt;/h3&gt;
+
+&lt;h4 id=&quot;scaling-up&quot;&gt;Scaling Up&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Take lessons learned from the miniature prototype to refine the design.&lt;/li&gt;
+  &lt;li&gt;Maintain the clear acrylic material for the full-size version, ensuring that the larger panels are supported adequately to prevent bending or breaking.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;environmental-control-systems&quot;&gt;Environmental Control Systems&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Integrate the heating pads and temperature sensors, ensuring even distribution of heat and accurate temperature monitoring throughout the incubator.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;stage-3-ai-integration-for-automated-environmental-control-1&quot;&gt;Stage 3: AI Integration for Automated Environmental Control&lt;/h3&gt;
+
+&lt;h4 id=&quot;electronics-and-sensors&quot;&gt;Electronics and Sensors&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Temperature Sensors:&lt;/strong&gt; Install these for precise climate control, considering the size and placement for accurate readings.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Heating Pads:&lt;/strong&gt; Strategically place the heating pads to provide uniform warmth, powered via USB for easy adjustments and power management.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cameras and IR Sensors:&lt;/strong&gt; These will monitor the growth progress and detect any abnormalities in the mushrooms.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;pH Sensors:&lt;/strong&gt; Essential for maintaining the substrate at optimal pH levels for mushroom growth.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ai-system-development&quot;&gt;AI System Development&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Data Collection:&lt;/strong&gt; Use the sensors and cameras to collect data on growth conditions and mushroom health.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;AI Model:&lt;/strong&gt; Develop or adapt an AI model capable of analyzing the collected data to adjust temperature, lighting, and pH levels automatically. This could involve machine learning algorithms trained on optimal growth conditions for various mushroom species.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interface:&lt;/strong&gt; Design a user interface for monitoring and manual overrides, ensuring ease of use and accessibility for non-technical users.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;implementation-and-testing-1&quot;&gt;Implementation and Testing&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Prototype Testing:&lt;/strong&gt; Thoroughly test each version of the incubator, starting with the miniature model and progressing through to the full-scale AI-integrated system.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Calibration:&lt;/strong&gt; Calibrate sensors and the AI system using known standards and test runs to ensure accuracy and reliability.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Safety Measures:&lt;/strong&gt; Implement safety features, especially in the full-size model, to protect against overheating or other electrical hazards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By following this roadmap, you can systematically develop a sophisticated mushroom incubator that leverages modern technology for optimal growth conditions. Your well-equipped workshops and clear planning position you excellently for success in this ambitious project.&lt;/p&gt;
+
+&lt;h2 id=&quot;progression&quot;&gt;Progression&lt;/h2&gt;
+
+&lt;p&gt;To start I looked for inspiration from similar projects and products online. Once I found one I liked (see inspiration) I started looking for options to make the vector graphic file for the cutout. At first I found VectorArt.AI which did not work as intended to form the cutout for my box (see vectai.jpg).&lt;/p&gt;
+
+&lt;p&gt;Then I started searching for open libraries similar to Thingiverse but for vector graphics and laser cut projects and found &lt;a href=&quot;https://3axis.co/download/qommv2ro&quot;&gt;3axis.co&lt;/a&gt; (box cutout for 12mm plywood which needed to be adjusted for 6mm).&lt;/p&gt;
+
+&lt;p&gt;I then set up my Inkscape to work with .eps files by following these instructions. In the end, this step was unnecessary as the file I got from 3axis.co was a .cdr which opened fine in Inkscape.&lt;/p&gt;
+
+&lt;p&gt;I then adjusted the design a bit, scaled to my desired dimensions, and exported the .svg file to the USB stick. I then went to the laser cutter and after setting everything up I noticed that I had to adjust the size of the cutout holes to fit the 3mm plywood.&lt;/p&gt;
+
+&lt;p&gt;After adjusting in Lightburn the laser cutting began and once it was finished I had cutouts for my incubator box. With some help from the team, we assembled the incubator box and I began thinking how to integrate my electronics (mainly the temperature controller and heating pads).
+&lt;br /&gt;
+&lt;img src=&quot;/BiohackMax/images/box-assembled.jpg&quot; alt=&quot;Incubator box assembled&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To do this I uploaded my progress including images of the box, electronics, and PDF manual for the electronics into a DIY GPT to figure out what challenges and possible solutions I could face.
+&lt;br /&gt;
+&lt;img src=&quot;/BiohackMax/images/upload-project-parts-to-chatgpt.jpg&quot; alt=&quot;Uploading project parts to ChatGPT&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the datasheet for the temperature controller was in Chinese I wanted to be extra safe and test out first with a bench power supply. Unfortunately I did not have access to one at the time so I constructed my own 12V power source using 2 9V batteries conencted in series to get 12V and converted the voltage to 12V with a buck converter.
+&lt;br /&gt;
+&lt;img src=&quot;/BiohackMax/images/testing-with-2-9v-batteries.jpg&quot; alt=&quot;Testing with 2 9V batteries&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I thought the controller was rated for 12V input, however it’s operational voltage was 5V, which I realized only after accidentally destroying 3 temperature controllers.&lt;/p&gt;
+
+&lt;p&gt;After finally figuring out the 5V problem and understanding how the relay of the temperature controller works I wired everything up and the heating pads were finally heating up to the set temperature.&lt;/p&gt;
+
+&lt;p&gt;I then assembled the box and electronics to make sure everything works and fits together.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/BiohackMax/images/Incubator-box-with-electronics-not-complete.jpg&quot; alt=&quot;Box assembled with working electronics&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Satisfied with how everything fits together I started thinking of a more permanent fixture, however I did not want to use glue in case I would want to disassemble and reassemble the incubator later.&lt;/p&gt;
+
+&lt;p&gt;Since I did not have a lot of time as we were supposed to present the next day I decided to 3D print only 2 &lt;a href=&quot;https://www.thingiverse.com/thing:38277&quot;&gt;triple corner joints&lt;/a&gt; (to connect the backboard) and use 2 metal corner brackets that I found in the lab.
+&lt;br /&gt;
+&lt;img src=&quot;/BiohackMax/images/3d-printed-triple-corner-joints.jpg&quot; alt=&quot;3D printer triple corner joints&quot; width=&quot;250&quot; /&gt;
+&lt;img src=&quot;/BiohackMax/images/box-with-joints.jpg&quot; alt=&quot;Box with corner joints&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Mar 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/Building-an-AI-Integrated-Mushroom-Incubator/</link>
+        <guid isPermaLink="true">http://localhost:4000/Building-an-AI-Integrated-Mushroom-Incubator/</guid>
+      </item>
+    
+      <item>
         <title>Lecture 1 - Biosafety</title>
         <description>&lt;h2 id=&quot;exploring-biosafety-and-laboratory-protocols&quot;&gt;Exploring Biosafety and Laboratory Protocols&lt;/h2&gt;
 
@@ -80,7 +262,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1LbO1qIUcXun85iCY1ZSKHKBBaLF8jPIVQ2HS-JsG1aY/edit?usp=sharing&quot;&gt;Link to Document&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/weissman.jpg&quot; alt=&quot;Brainbow&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/weissman.jpg&quot; alt=&quot;Bra[2016-2-23-Hello-World.md](2016-2-23-Hello-World.md)inbow&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Mar 2024 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/lecture-1-biosafety/</link>

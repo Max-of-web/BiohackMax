@@ -77,4 +77,4 @@ We wear a labcoat because it changes your mindset when you change clothes and en
 
 [Link to Document](https://docs.google.com/document/d/1LbO1qIUcXun85iCY1ZSKHKBBaLF8jPIVQ2HS-JsG1aY/edit?usp=sharing)
 
-![Brainbow](/images/weissman.jpg)
+![Bra[2016-2-23-Hello-World.md](2016-2-23-Hello-World.md)inbow](/images/weissman.jpg)
